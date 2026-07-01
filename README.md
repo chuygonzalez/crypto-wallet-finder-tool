@@ -134,4 +134,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## ⚠️ Disclaimer
 
-This tool is provided for **educational and personal recovery purposes only**. Users are solely responsible for ensuring compliance with applicable laws and regulations in their jurisdiction regarding cryptocurrency wallet recovery. The developers assume no liability for misuse, data loss, or any damages arising from the use of this software. By downloading and using Crypto Wallet Finder, you accept all associated risks
+This tool is provided for **educational and personal recovery purposes only**. Users are solely responsible for ensuring compliance with applicable laws and regulations in their jurisdiction regarding cryptocurrency wallet recovery. The developers assume no liability for misuse, data loss, or any damages arising from the use of this software. By downloading and using Crypto Wallet Finder, you accept all associated risks⁤
